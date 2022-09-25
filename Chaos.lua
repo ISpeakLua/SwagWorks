@@ -43,7 +43,7 @@ Title.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.Font = Enum.Font.Ubuntu
 Title.RichText = true
-Title.Text = "<font color=\"#FF0000\">S</font>wag<font color=\"#FF0000\">W</font>orks"
+Title.Text = "<font color=\"#FF0000\">S</font>wag<font color=\"#FF0000\">W</font>orks <font size=\"15\">Free Edition</font>"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 30.000
 
